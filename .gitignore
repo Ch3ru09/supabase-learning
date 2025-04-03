@@ -42,4 +42,5 @@ next-env.d.ts
 
 # lock-files
 bun.lock
+pnpm-lock.yaml
 
